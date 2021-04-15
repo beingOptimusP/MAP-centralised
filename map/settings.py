@@ -25,7 +25,7 @@ SECRET_KEY = '#qj$#1w9_%k9x@kfe8!4aj7vgxy3%8%(jdl-yw(&im95gm-&d)'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False 
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','map-moneyasproduct.herokuapp.com']
 
 
 # Application definition
